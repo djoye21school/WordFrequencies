@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GladLib
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ChangeWords\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GladLib()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=source
+comment2.target=void\ initializeFromSource(java.lang.String)
+comment3.params=source
+comment3.target=java.util.ArrayList\ readIt(java.lang.String)
+comment4.params=source
+comment4.target=java.lang.String\ fromTemplate(java.lang.String)
+comment5.params=word
+comment5.target=java.lang.String\ processWord(java.lang.String)
+comment6.params=source
+comment6.target=java.lang.String\ randomFrom(java.util.ArrayList)
+comment7.params=label
+comment7.target=java.lang.String\ getSubstitute(java.lang.String)
+comment8.params=template\ size
+comment8.target=void\ printOut(java.lang.String,\ int)
+comment9.params=
+comment9.target=void\ makeStory()
+numComments=11
